@@ -1,0 +1,20 @@
+{
+
+    "name":"AirplaneToken",
+    "description":"This my Airplane NFT.Please buy it",
+    "image":"",
+    "external_url":"",
+
+    "attributes":[
+        {
+            "trait_type":"Artifact",
+            "value":"Airplane"
+        },
+        {
+            "trait_type":"Collection",
+            "value":"Unique"
+        }
+        
+
+    ]
+}
