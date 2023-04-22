@@ -2,8 +2,8 @@
 
     "name":"AirplaneToken",
     "description":"This my Airplane NFT.Please buy it",
-    "image":"",
-    "external_url":"",
+    "image":"https://kajal-singh3.github.io/AirplaneNFT/airplane1.png",
+    "external_url":"https://kajal-singh3.github.io/AirplaneNFT/",
 
     "attributes":[
         {
